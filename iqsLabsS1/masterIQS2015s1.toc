@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Work and Kinetic Energy\SF@gobble@opt {1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material have been modified locally and may not have been classroom tested at Dickinson College.}}{4}
+\contentsline {section}{\numberline {2}Conservation of Mechanical Energy\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{15}
+\contentsline {section}{\numberline {3}Force and Momentum Conservation\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{19}
+\contentsline {section}{\numberline {4}Heat, Temperature, and Internal Energy}{28}
+\contentsline {section}{\numberline {5}Calorimetry}{30}
+\contentsline {section}{\numberline {6}Kinetic Theory of Ideal Gases\SF@gobble@opt {1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{33}
+\contentsline {section}{\numberline {7}Applying the Kinetic Theory\SF@gobble@opt {1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{39}
+\contentsline {section}{\numberline {8}Stefan's Law}{45}
+\contentsline {section}{\numberline {A}Treatment of Experimental Data}{49}
+\contentsline {section}{\numberline {B}Introduction to DataStudio}{51}
+\contentsline {section}{\numberline {C}Introduction to Excel}{53}
+\contentsline {subsection}{\numberline {C.1}Data and formulae}{53}
+\contentsline {subsection}{\numberline {C.2}Graphs}{53}
+\contentsline {subsection}{\numberline {C.3}Making Histograms}{54}
+\contentsline {section}{\numberline {D}Video Analysis}{57}
+\contentsline {section}{\numberline {E}Instrumentation}{60}

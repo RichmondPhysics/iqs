@@ -1,0 +1,356 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2012.8.14)  20 FEB 2015 09:03
+entering extended mode
+ %&-line parsing enabled.
+**masterIQS2015s2
+(./masterIQS2015s2.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+)
+(/usr/share/texmf/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+
+(/usr/share/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/share/texmf/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2007/01/06 v1.06
+
+(/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@padzeroesN=\count90
+
+No configuration file fmtcount.cfg found.
+\@DT@modctr=\count91
+\@ordinalctr=\count92
+\@orgargctr=\count93
+\@strctr=\count94
+\@tmpstrctr=\count95
+\@DT@loopN=\count96
+\@DT@X=\count97
+(/usr/share/texmf/tex/latex/fmtcount/fc-english.def
+File: fc-english 2005/04/29
+))
+(/usr/share/texmf/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks16
+)
+(/usr/share/texmf/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+\c@activity=\count98
+ (./masterIQS2015s2.aux
+(./periodic_motion/periodic_motion.aux) (./solveSE/solveSE.aux)
+(./rotation/rotation.aux) (./newtons_2law_rot/newtons_2law_rot.aux)
+(./cons_ang_mom/cons_ang_mom.aux) (./appendices/treatment_data.aux)
+(./appendices/datastudio.aux) (./appendices/excel.aux)
+(./appendices/video_analysis_tracker.aux) (./appendices/instrumentation.aux))
+\openout1 = `masterIQS2015s2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+
+
+Package geometry Warning: The marginal notes would fall off the page.
+     Add 21.42575pt and more to the right margin.
+
+-------------------- Geometry parameters
+paper: class default
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 73.71613pt, 0.7\paperwidth , 110.57425pt (default)
+v-parts: 95.39737pt, 0.7\paperheight , 143.09605pt (default)
+hmarginratio: 2:3
+vmarginratio: 2:3
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: 
+-------------------- Page layout dimensions and switches
+\paperwidth  614.295pt
+\paperheight 794.96999pt
+\textwidth  486.91013pt
+\textheight 656.0612pt
+\oddsidemargin  1.44614pt
+\evensidemargin 38.30426pt
+\topmargin  50.58878pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 121.0pt
+\marginparsep   11.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset -28.45274pt
+\voffset -42.67912pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 79.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 79.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 79.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 79.
+(/usr/share/texmf/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+File: grace1-1.ps Graphic file (type eps)
+ <grace1-1.ps> [1
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 128.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 128.
+ [1]
+(./masterIQS2015s2.toc)
+\tf@toc=\write3
+\openout3 = `masterIQS2015s2.toc'.
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+\openout2 = `periodic_motion/periodic_motion.aux'.
+
+
+(./periodic_motion/periodic_motion.tex
+File: periodic_motion/periodic_motion_fig1b.eps Graphic file (type eps)
+
+<periodic_motion/periodic_motion_fig1b.eps> [4
+
+] [5] [6]
+File: periodic_motion/periodic_motion_fig1b.eps Graphic file (type eps)
+
+<periodic_motion/periodic_motion_fig1b.eps> [7]
+File: periodic_motion/periodic_motion_fig3b.eps Graphic file (type eps)
+
+<periodic_motion/periodic_motion_fig3b.eps> [8] [9]) [10]
+\openout2 = `solveSE/solveSE.aux'.
+
+
+(./solveSE/solveSE.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
+ (/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+ [11
+
+
+]
+[12]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 117.
+
+ (/usr/share/texmf/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+File: solveSE/shooter1b.eps Graphic file (type eps)
+ <solveSE/shooter1b.eps>
+[13] [14]
+File: solveSE/energyLevels2.eps Graphic file (type eps)
+ <solveSE/energyLevels2.eps> [15]
+File: solveSE/CO2absorption1.eps Graphic file (type eps)
+ <solveSE/CO2absorption1.eps>
+[16]) [17]
+\openout2 = `rotation/rotation.aux'.
+
+ (./rotation/rotation.tex
+File: rotation/rotation_fig1.eps Graphic file (type eps)
+ <rotation/rotation_fig1.eps> [18
+
+
+]
+File: rotation/rotation_fig3.eps Graphic file (type eps)
+
+<rotation/rotation_fig3.eps>
+File: rotation/circle1.eps Graphic file (type eps)
+ <rotation/circle1.eps>
+File: rotation/lightRods.eps Graphic file (type eps)
+ <rotation/lightRods.eps>
+[19]
+File: rotation/rotator.eps Graphic file (type eps)
+ <rotation/rotator.eps> [20]
+File: rotation/radians.eps Graphic file (type eps)
+ <rotation/radians.eps> [21] [22]
+File: rotation/angularVelocity.eps Graphic file (type eps)
+
+<rotation/angularVelocity.eps>) [23]
+\openout2 = `newtons_2law_rot/newtons_2law_rot.aux'.
+
+ (./newtons_2law_rot/newtons_2law_rot.tex
+[24
+
+
+] [25] [26]) [27]
+\openout2 = `cons_ang_mom/cons_ang_mom.aux'.
+
+ (./cons_ang_mom/cons_ang_mom.tex [28
+
+
+] [29]) [30]
+\openout2 = `appendices/treatment_data.aux'.
+
+
+(./appendices/treatment_data.tex [31
+
+
+]) [32]
+\openout2 = `appendices/datastudio.aux'.
+
+ (./appendices/datastudio.tex
+File: appendices/datastudio_fig1.eps Graphic file (type eps)
+
+<appendices/datastudio_fig1.eps> [33
+
+
+]) [34]
+\openout2 = `appendices/excel.aux'.
+
+ (./appendices/excel.tex
+File: appendices/excelfigs/excelwindow.eps Graphic file (type eps)
+
+<appendices/excelfigs/excelwindow.eps>
+File: appendices/excelfigs/scatterplot.eps Graphic file (type eps)
+ <appendices/excelfigs/scatterplot.eps>
+[35
+
+
+]
+File: appendices/excelfigs/histf1.eps Graphic file (type eps)
+ <appendices/excelfigs/histf1.eps>
+File: appendices/excelfigs/histf2.eps Graphic file (type eps)
+ <appendices/excelfigs/histf2.eps>
+File: appendices/excelfigs/histf3.eps Graphic file (type eps)
+
+<appendices/excelfigs/histf3.eps>
+File: appendices/excelfigs/histf4.eps Graphic file (type eps)
+ <appendices/excelfigs/histf4.eps>) [36]
+[37]
+\openout2 = `appendices/video_analysis_tracker.aux'.
+
+ (./appendices/video_analysis_tracker.tex
+File: appendices/video_analysis_tracker_fig1d.eps Graphic file (type eps)
+
+<appendices/video_analysis_tracker_fig1d.eps> [38
+
+
+] [39]) [40]
+\openout2 = `appendices/instrumentation.aux'.
+
+
+(./appendices/instrumentation.tex [41
+
+
+]
+File: appendices/instrumentation_fig1.eps Graphic file (type eps)
+ <appendices/instrumentation_fig1.eps>
+[42] [43]) [44] (./masterIQS2015s2.aux (./periodic_motion/periodic_motion.aux)
+(./solveSE/solveSE.aux) (./rotation/rotation.aux)
+(./newtons_2law_rot/newtons_2law_rot.aux) (./cons_ang_mom/cons_ang_mom.aux)
+(./appendices/treatment_data.aux) (./appendices/datastudio.aux)
+(./appendices/excel.aux) (./appendices/video_analysis_tracker.aux)
+(./appendices/instrumentation.aux)) ) 
+Here is how much of TeX's memory you used:
+ 1648 strings out of 256217
+ 21812 string characters out of 1917095
+ 77866 words of memory out of 1500000
+ 4833 multiletter control sequences out of 10000+200000
+ 18722 words of font info for 47 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 30i,11n,43p,898b,367s stack positions out of 5000i,500n,6000p,200000b,15000s
+
+Output written on masterIQS2015s2.dvi (45 pages, 122768 bytes).
